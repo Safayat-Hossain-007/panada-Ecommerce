@@ -51,3 +51,10 @@
 .footer{
     font-weight: bold;
 }
+#contact-us{
+    height: 300px;
+
+}
+#contact-us h6{
+    color: gray;
+}
